@@ -6,6 +6,8 @@ Go to `Settings > Actions > General`, scroll-down and check the box allowing
 other repositories (from the same Org) to use/consume the repository as
 an Action/Workflow
 
+<img width="904" height="277" alt="image" src="https://github.com/user-attachments/assets/20e3e151-1e05-43f8-8d38-b840302772a3" />
+
 ## Secrets can be Shared with Reusable Workflows But NOT Variables
 
 Github allows us to setup two kind of **Repository Environment Data**:
