@@ -49,4 +49,7 @@ jobs:
 
 But if you try to pass any values from `vars` it will be passed as blanks.
 
-Why? Who knows.
+Why? I do not know.
+
+Based on the scope list of available contexts the `vars` context should be
+available: https://docs.github.com/en/actions/reference/workflows-and-actions/contexts
